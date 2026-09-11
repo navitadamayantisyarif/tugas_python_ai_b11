@@ -4,7 +4,7 @@
 
 nama = "Navita"                                      # String
 umur = 20                                            # Integer
-tinggi = 150                                         # Float
+tinggi = 150.0                                       # Float
 mahasiswa = True                                     # Boolean
 hobi = ["Membaca", "Menyanyi", "Bermain Musik", "Desain", "Berenang"]  # List
 
